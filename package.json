@@ -1,6 +1,6 @@
 {
   "name": "super-research-ai-agent",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "AI-powered Confluence/Jira research agent — scrapes pages and generates structured reports via Claude",
   "main": "index.js",
   "type": "module",
@@ -40,6 +40,7 @@
     "docx": "^9.6.1",
     "inquirer": "^13.4.1",
     "ora": "^9.3.0",
-    "puppeteer-core": "^24.41.0"
+    "puppeteer-core": "^24.41.0",
+    "super-research-ai-agent": "^1.2.0"
   }
 }
